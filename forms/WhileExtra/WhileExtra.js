@@ -1,11 +1,10 @@
-/*
-let first = prompt()
-let last = prompt()
+
+let name = prompt("Enter your first and last name.")
 let i = 0
 
-while (i < first.length) {
-  console.log(`letter ${i+1} is ${first.slice(i,i+1)}`)
+while (i < name.length) {
+  console.log(`letter ${i+1} is ${name.slice(i,i+1)}`)
   i++
   }
   
-*/
+

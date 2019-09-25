@@ -29,6 +29,14 @@
             "NamesExtra", 
             "NamesExtra.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Product", 
+            "Product.json"
+          ]
         }
       ], 
       "configxml": null, 
